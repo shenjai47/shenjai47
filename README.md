@@ -1,16 +1,22 @@
 ### Hi there 👋
+I'm shenjai47, although I also go by *Shen* on some platforms.\
+I mainly work in **Java** and **TypeScript**, although I also do work in other languages.
 
-<!--
-**shenjai47/shenjai47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://lanyard.cnrad.dev/api/252090676068614145?idleMessage=Possibly%20writing%20code..." alt="Discord Status">
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shenjai47&theme=darcula&show_icons=true&count_private=true">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- [Twitter](https://twitter.com/MrShen47)
+
+## Experience
+- Programming Languages
+  - Java
+  - PHP
+  - TypeScript/JavaScript
+- Backend Development
+  - Database Infrastructure
+  - RESTful APIs
+  - Internal Networking
+
+## Lumine Supremacy
